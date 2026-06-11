@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+     <head><title>Sobre o IEEE WIE UFC</title>
+    <link rel="stylesheet" href="styles.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        </head>
+        <body>
+            <main>
+                <div id="oque">
+                <h1>Sobre o WIE UFC</h1>
+                <section class="ieee">
+                    <img src="https://ieee.eecs.umich.edu/images/ieee-logo.png" alt="IEEE">
+                <div class="texto"><h2>O que é o IEEE?</h2>
+                <p>O IEEE é uma das maiores organizações profissionais do mundo voltadas ao avanço da tecnologia em benefício da humanidade.Dentro das universidades os ramos estudantis aproximam estudantes de oportunidades acadêmicas, técnicas, profissionais e de liderança. </p>
+            </div>
+        </section>
+                <section class="wie">
+                    <img src="https://wie.ieee.org/wp-content/uploads/IEEE_WIE-social_logo.jpg" alt="wie">
+                    <div class="texto"><h2>O que é o IEEE WIE?</h2>
+                    <p>O IEEE Women in Engineering é uma comunidade global do IEEE dedicada a promover a participação, permanência e valorização de mulheres nas engenharias, ciências e tecnologia.</p>
+                </div>
+            </section>
+                <section class="wieufc">
+                    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBhUSBxIWFhUXGBkbGRcYGCAeHhwdIB0bHx0dGxgdICghIh0lHR0bJD0hMSkrLjAuGB81ODMxPSgyLjcBCgoKDg0OGxAQGzIlHyYvMisuNzArKy0yMDI3LS0tLTIvLTUyLzUtLTUrLy4vLS0uLTUwLy8tLS0tLS0vLS0tK//AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAwADAQEAAAAAAAAAAAAABAUGAgMHAQj/xAA+EAACAQMDAgQDBQYEBQUAAAABAgADBBEFEiEGMRMiQVEyYXEHFEKBkRUjM1JiwRaC0dIkQ8Lh8CU3cnO0/8QAGQEBAQEBAQEAAAAAAAAAAAAAAAEDAgQF/8QAKxEBAAIBBAECAwkBAAAAAAAAAAECEQMSITFRE0EiMoEEQlJhYnGx0fAj/9oADAMBAAIRAxEAPwDGxET7T7RERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQERLHStPoX1Cs1aqV8Gn4hVUDFlDKrYy6gY3Due2ZJnHaTOOZV0SyraW9e726OlaoDTR+UO4AgZyBxjPY9jxOqlpGpVbp6dKhULp8ShTkfIj3PoPX0jdBuhCiSbmza1twbjcr72Xw2Rl4XGTuPBO4kbe4xz3kaWJysTkiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICd9jUp07xTUVGAPIfO328xXnA78e0n6XpiVNPa6uSDTpuF8M7h4rDYfDDqDtLBhj1xuP4SZbdTtYGgVq4DDa1tsVQy02HNG4UYwaZ7McsefeZzeM7XE3jOCw6f0+2eouoipVanVpo+xtqilV+C4TAJb0ODgeYd5F0Nx0/1DVS+qininWpNUXLclSFK7M87tp+XryMSrudWvri2Wm7kIqLTCrxlR2D45bHzzj0xII47SRSZid0pFJmJ3S0Z1ezUP94rV67vQq0WqFQOG2eGPM+SFIcknk7gOwmi0m4oahSNakHUtWt/CdqTOFrUaQpl38JuE2lThuOW9jPOpzStVSmVRmAbuASAfqPWS2jExwltKJjhqrXVrO1tEWhXy9G1r003KcNVquSSG8y7ADwTgHavHtNu9O0e5r1ri4D1kV6dM/dVDDiirPWYIQBubOPQEHIPphY9D8+8vpeJPS8Sv77pO+tKahGWpVLKpoocupZSwBUE8gDkehI5PeUyWtw+/YjHYMvx8IyBk+wyR+strfqKr49SrdqDXamUSuqqrKxAUuxVcs23y7s5GSRkmW97aW17bK1/VLoFAN0gDVLiu+3ZSQEbmSmoAIOD5T24Em+1fmTdavzMZEk6naNp2pVKFRlZqbFSVOQSD6SNNonLaJyREQEREBERAREQEREBERAREQEREBL7pnTrWsHuL/c1OiVJp0wGc8r5mpnvRUHzfpx3kahZ0W0/w7pGpVXIelWfhCCvlQ5HCtnO/OM7c8ZIvtU1KlYUy1lUoq6MvgItE069BgwDpUwoDJs3A5LbjgzK9s8QyvbPEOrU9aqaSCtm1Pxn2sz0QvguuM06ngsp8Ovgg8Yxwe5mRJJPM+szO5LkkkkknuSeSSffM5UqVSvVC0FLMeyqCSfoByZ3WkVh3WsVhwiXh6Yu7YA6tVoW2edtWp58e4pIGb9QJ2W2gabeVQlpqNAueAHp1aYJ9t7LiT1Kp6lWfiXGv9M6t0+4/aVPCngOp3IT7bvQ/IgGU86iYmMw6iYmMwRESqS86Qa4Grf8K4UqjvjbvLYXtTTIPi7ScEEEc89waOfQcHI9JLRmMJaMxhs+pL+y021FvRpvUpvb0/DFRsADLHxSoCsK5Yc5A7EcgzFzdav0/ZX3QaalZoadT/mLuZlYb/DJG8kg5we/bI57zCzPRxjj6s9HGOCIiatSIiAiIgIiICIiAiIgIiICd9its94gvmK08jeVGTt9do9z2Hpk8zoljZ2NOppNWtXWqQrKimmAQCQxJfI7ABeMjlhzJacQlpxDVaXrdC3Rk/bFUIw8u+g+UI+Erguu30KYwR7HBGQ1a/u9Rvi9/UFRx5d4UDcBwDwq549SM4xJV/pFK1+8ClXDmgyq2EIBJYoQCfxKRyO2AcE4kbRdMr6zqtOha/E7Yz7DuzH5AAn8pnStYzZnWKxmyToOh1dXLvUYUqFPmrWb4VHsB+Jz6L/2kq56hp2VI0ul1NGn2asf49X5s/4B/SuP7SV1xqNCnWFhpPFvbHH/ANlX8bsfUg5H13fKZWWsb+bLWN/NndRoV7ouaKliql2x32jG5j9M8/rOkjI5mo+z22zq9S4rcUrejVeofTBRlC/nkn/LM9pljX1G8p0bf46jKo+p9foBk/QGdRbmY8OotzMeHunT1qNe+z+jT1PzeJRCknv7K2ffgHPvPBSrIcN3HBn6J1O6tul+l2ZeFo0gqD3IAVB+ZwPzn50JIGXP1M832XM7p9nm+y5ndPsv+jumq3UupbM7KSDdVqew9hnjcefpgn0wb3TbzS9S1CtRtbWitjTo1WLlM1MKp21DVPm3lsYHsflNZZ6BdaP9nRoWYC166/vGY7Qm/wCMs3oEp5GfdfczzjWdSsrXT/uWhEmlkGtWIwa7jtgelNfQfn8zYt6tpx/vz/pYt6kzj/fn/TPLnb5pK06xuNTv0o2Yy7sFH+p+QGSfkDI4BJwJ6Xolta/Z9oputXUNeVVIpUvVR7H29Cx9OAOe++pfbHHfs31L7Y479nb9pV5baJ0zR0yyOTtTd77E5BPzZxn8jPLpI1C+udSvnrXrbnc5Y/2A9ABwB7ASPJpU2VwaVNlcERE0dkREBERAREQEREBERAREQE0uhrc0KNuLK6r0GrNUbK/wwFLLkgEZP7vnOcATNTVabfX9lSpUra/q0h93ettCeRQPEcgAN5iQrnJUc4H0z1emep0ja1q1bUdCpmrUWoXrPl/CVHbw1GCWX4lIq55GQc95cfZIEXWq7jl0t2KD/Muf7D85Q9RahW1OytnruXylQ8oqkHftblMAjKDBwD6HMh6Hq13oepLXsSAy54PZge6sPY/6e052Z05iHOzOnMQgBmcZc5J5J9ye5kzSdLvNYv1o6chZ2/QD1Zj6KPf+/EtLi96Yu65qVba4psTk06VVNmfXBZNwHy9PSLnqmtTsTQ0OktrSb4thLVH/APnWPmP5YnW609Q73WxxCy6mvbLQ9F/ZujOHO7ddVh+Jx+AfIED6YA77poPsh6cIzfXY75WiD+jP/wBI/wA3vMV0b05W6k1cU1yKa4NVh6L7D+puw/M+k9P62186NZpY9Orm4qKFREGTTTtkD3wMD2wSe08+rOI9Ovc9vPq8f869z2yH2rdTDU9QFrZtmlRPnIPDVO2PovI+pPsJG6E6PralqFKrqWKdPO9Eb4qoUgnC+lPtljwcgDvmRTa6b0mc6iEuLwdqOc0qJ96p/G4/l7D9DNn9lCXep17i/wBTYu7kUlY+gHmYKOwXJUYHHlMtp2afw9fyWnZp/D1/KP8AbPqtWlSo21FiA+53APcDAUH3Gdx+qzJXXSD0ejqd8lYMXKgUguT5m2hVOcl8/hx7+07evbiv1B1zUp2ClypFFFXkkr8X6OW57DHM0tt0+Ojekat4jJUulwFPxJSYuEbYO28ZILe4x2yCifTpWI7Kz6dKxHao0+zsehqAuNbAqXrDNK3z/D9nqH0P/gzyRkNW1O81e/atqD7nb19APRVHoo9v7mXvR3T9x1hrTte1G2L5q1QnLEnsoJ9Tg/QD6T7d9R6Rb3pTTNOtWoKSAailqjgcbvFzkZ7jg4mkcWn3lpHFp95ZWJsetOmbSz06jfaHu+71gp2NyaZYZHJ5we3PY/WY6a0tFozDWlotGYIiJ06IiICIiAiIgIiICIiAiIgJs9Pv9UoaTQ8HU6NBPDOKbA7hh3U+VabZBwec857TGRObV3ObV3L/AKruGuhRapdrcnawLKu3bhs4wVU/i7kSgiJa1xGFrGIwSXpWnXWrX60bBdzucAeg9yT6KPedFCjUuK6pQGWZgqj3JOAP1M9Z0/8AYv2a6V/xzCpd1BllXlj7KP5aY/mPc8+wHGrqbYxHbjV1NsYjtoNP0y36O6b2WhTdjL1anC7vV3PfA9FHJ4HuZ5fq3VKW71F0Atvqfxbx+KtX5IP+XT9gOcAdsSt6m6o1LqS4zethAfLSX4V/3N/Ufyx2lJMtLQxzftnpaGOb9hM/QHT+n3HT/RqUrZQawp5wTgeI3mO4+ihjyfYflPJvs+0u1v8AXhU1B0SlQAqNvYDJB8o59M8n5DHrLXr/AK7qayWt9IJWh2Zuxq/6J8vX144k1onUtFI+qa0TqWikfVX32sW2g27UOn6niVnz495+JifiWj/Kufxdz6ehmkp/+x5/P/8ATPMqNPxayrlV3EDLHCjJxlj6Adyfaeqp+xx9nRsDqFn4uD5vGXbu8TxMZ749M4/KNWsV2/uatYrj93d9kIA6UrmiAX8V+D64pptB+X+pmETq2kUH/punjjt93P8Aukvofqb/AAlq7pckPRc7XNM7hlSQKiH8Q7/UY9sSXrXSVhqN61fp69tfCclitSrtKZ5Ixg8d+CAR2jbFbzu6npNsVvM26lXat1vfapoRtHoW9Ol5cCmjLt2sGG0biByPaZeXerUtH02x8GycXFZiC9cZCIB+Gl/MT6v2x2lJN9OKxHww304iI4giInbsiIgIiICIiAiIgIiICIiAiIgIiIH0HB4h2Z3Jckk9yeSfqZ8iAiIgMAxEQEREBGBEQEREBERAREQEREBERAREQEREBERAREsk0PUaluHpUywZFcBfMxVnKDCjnO5Tx7DMkzEdkzEdq2JOraPqNGkGek/O4EbGypGchsrwfKx+gMDRtVLYFtWz7eG3rz7e0bo8pujygxLRNA1KorFKZISmjk7W/EVCqPLy53Dy/I4zOFPQ9TqUajCi48MqrAqwO5mVQoGOW8wOO+DmTfXym+vlXRJ1HSrurRqswCCiQHDnaQW3YUKeSxKkY95zo6HqdbxP3Lr4S7m3Iw9VAUcfEdwwvrzLujyu6PKuiTho2qlsC3rZzjHht3xnHbvjnE7Keh39XUadCku56i02UDJwrgEFsDgAEZPpG6PJujyrYks6ZfCuiGk+ah208qQHJOBtJwCMkc/MTsraRe06pFJfEAYKWpfvF3H8O9cjd8o3QboQIlhR0TVK1TAoVB8fJptjyg7h275GMe+BK8HI4liYnpYmJIiICIiAiIgIiICIiAiIgIiICIiAmo0vW9WtdNT7vbblRNvi7X5p7qrAHB24DF+e/kx6GZeW66pbPoP3eqpyBw2xHGd1dvxcr/GHmHPlPvM9SMx1lxqRmOsr2517qWoGX7qVOxlP7tuNx+LB7EAMv+Zp0t1TrF4y1lt8otXdxvKlmUps78qd/wAP9YHrIl3rdhcVrg7CPGYN/BonBDOcEdmPm+M+biRdH1ejp9JPGVnZKiugwo2EOjMVqfGCyqVK/CcgntM40+PlZRTj5U5OtbhKIV6FAgBQAQ23avg5G3djB8FPpz7yRX641K2r4q0aQYbCMlj5StJgPi53KqnPfzfKQl12zXBZahbygsduRtWuocE/jzVVueM0+/rO/wDxRbeID4bHFSkxLAEuE8HljnAb92ecHhsZHOZsj8Jsj8KAnUd/S8apb5XxXpFmy3Hh7iELZ5BGcg9wJc3fWGs2FfN1bimxYsniBxjmmWCgnkZprx6c+8o9Q1lr7RRRqF937ssxPDFVdSW+eCvP9P0k+/6ktbio5pU2G/xM/CvFSrRdl8v9NNl3/Ed4zwJ1Nc4+FZpn7r4OtLn79TqGnTPhlyisWIBbwwCDnOVFMAfJmHrONv1PeUr43XhUyAtGiQScZQq6dm3ZzSz7cGc7rqWhUOKSMARhs4yw2VlAbkk4NRDyT/D+k4f4jprUbYKm12UlCRtVAlVfCX+gGoCOB8PaTb+k2/pdNz1Re16tFlVFai6uCM+ZlWmgLAnttpqMDHr7ztt+qmtqBp29tSFPeX2ZcjJ2lhyxyMopHsQMdpnR2ia+lXGMNPTrjGGpHW979/Wq9GkWUMBndwWfeSDuyD6fMd5lVAVcCfYlrSK9LWkV6IiJ06IiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiIH/9k=" alt="wie ufc">
+                    <div class="texto"><h2>O que é o IEEE WIE UFC?</h2>
+                    <p>O IEEE WIE UFC é um grupo de afinidade Women in Engineering vinculado ao IEEE Student Branch da Universidade Federal do Ceará. Atuamos criando espaços de acolhimento, formação e protagonismo para estudantes de engenharia e áreas correlatas, por meio de projetos, eventos, capacitações e ações extensionistas.</p>  
+                </div>
+                <section>
+                </div>
+                <div class="topicos">
+                    <section>
+                        <h2>Missão</h2>
+                        <p>Fortalecer a presença feminina nas engenharias e áreas tecnológicas. Promovendo desenvolvimento acadêmico, profissional e humano por meio de ações colaborativas, formativas e de impacto social.</p>
+                        </section>
+                        <section>
+                            <h2>Visão</h2>
+                            <p>Ser uma comunidade de referência dentro da UFC na formação de lideranças femininas em engenharia, tecnologia e inovação</p>
+                        </section>
+                    <section>
+                        <h2>Valores</h2>
+                            <ul>
+                                <li>Acolhimento</li>
+                                <li>Colabração</li>
+                                <li>Protagonismo feminino</li>
+                                <li>Responsabilidade social</li>
+                                <li>Liderança</li>
+                                <li>Excelência</li>
+                                <li>Inovação</li>
+                                <li>Pertencimento</li>
+                            </ul>
+                    </section>
+                </div>
+            </main>
+        </body>
+</html>
