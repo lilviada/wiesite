@@ -1,0 +1,82 @@
+#oque {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#oque h1 {
+    color: #540694;
+    margin-bottom: 40px;
+}
+
+#oque section {
+    margin-bottom: 50px;
+}
+
+#oque h2 {
+    color: #540694;
+    margin-bottom: 10px;
+    font-size: 1.8rem;
+}
+
+#oque p {
+    max-width: 700px;
+    line-height: 1.7;
+    text-align: justify;
+    margin: 0;
+}
+
+.ieee,
+.wie,
+.wieufc {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    margin-bottom: 50px;
+}
+
+.ieee img,
+.wie img,
+.wieufc img {
+    width: 90px;
+    height: 90px;
+    object-fit: contain;
+}
+
+.texto {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    flex: 1;
+}
+
+.topicos {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 50px auto;
+    max-width: 1200px;
+}
+
+.topicos section {
+    width: 280px;
+    padding: 20px;
+    border-radius: 12px;
+    background-color: #f8f6ff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.topicos h2 {
+    text-align: center;
+    color: #540694;
+}
+
+.topicos p,
+.topicos ul {
+    line-height: 1.6;
+}
+
+.topicos ul {
+    padding-left: 20px;
+}
+
